@@ -1,4 +1,4 @@
 d3vis
 =====
 
-Web visualization using D3.js
+Data visualization using d3.js, nvd3.js
